@@ -126,6 +126,7 @@ header {
 .site-nav .link:hover,
 .site-nav .link:focus {
   color: var(--accent-color);
+  cursor: pointer;
 }
 
 .link.current {
@@ -535,6 +536,7 @@ header {
 .team-box:focus {
   background-color: var(--accent-color);
   fill: #ffffff;
+  cursor: pointer;
 }
 
 .team-icon {
@@ -582,6 +584,7 @@ header {
 .clients-box:focus {
   border-color: var(--accent-color);
   fill: var(--accent-color);
+  cursor: pointer;
 }
 
 .clients-list {
@@ -773,6 +776,7 @@ address,
 .portfolio-button:focus {
   background-color: var(--accent-color);
   color: #ffffff;
+  cursor: pointer;
 }
 
 .portfolio-title {
